@@ -1,0 +1,1526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DJ_PLAYLISTS Version="1.0.0">
+  <PRODUCT Name="rekordbox" Version="6.5.1" Company="AlphaTheta"/>
+  <COLLECTION Entries="121">
+    <TRACK TrackID="199965726" Name="Immortal Lover" Artist="Andrew Bayer"
+           Composer="" Album="Immortal Lover (The Remixes)" Grouping=""
+           Genre="Melodic House &amp; Techno" Kind="Unknown Format" Size="0"
+           TotalTime="350" DiscNumber="0" TrackNumber="0" Year="2019" AverageBpm="122.00"
+           DateAdded="2021-03-06" BitRate="0" SampleRate="44100" Comments=""
+           PlayCount="7" Rating="0" Location="file://localhost/v4/catalog/tracks/12884094/"
+           Remixer="Qrion" Tonality="3A" Label="Anjunabeats" Mix="Qrion Extended Mix">
+      <TEMPO Inizio="0.275" Bpm="122.00" Metro="4/4" Battito="2"/>
+      <POSITION_MARK Name="" Type="0" Start="314.537" Num="-1"/>
+    </TRACK>
+    <TRACK TrackID="118939812" Name="Laomedeia" Artist="Hosini" Composer=""
+           Album="Anjunadeep The Yearbook 2017" Grouping="" Genre="Deep House"
+           Kind="Unknown Format" Size="0" TotalTime="394" DiscNumber="0"
+           TrackNumber="0" Year="2017" AverageBpm="118.01" DateAdded="2021-03-06"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="6" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/9996148/" Remixer=""
+           Tonality="6B" Label="Anjunadeep" Mix="Original Mix">
+      <TEMPO Inizio="0.213" Bpm="118.01" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="0.722" Bpm="118.01" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="4.790" Bpm="118.01" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="24.111" Bpm="118.01" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="35.297" Bpm="118.01" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="54.618" Bpm="118.01" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="70.380" Bpm="118.01" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="86.142" Bpm="118.01" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="105.463" Bpm="118.01" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="121.225" Bpm="118.01" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="136.987" Bpm="118.01" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="156.308" Bpm="118.01" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="172.070" Bpm="118.01" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="187.832" Bpm="118.01" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="207.153" Bpm="118.01" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="222.915" Bpm="118.01" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="238.677" Bpm="118.01" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="257.998" Bpm="118.01" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="273.760" Bpm="118.01" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="293.081" Bpm="118.01" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="304.267" Bpm="118.01" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="323.588" Bpm="118.01" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="339.350" Bpm="118.01" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="355.112" Bpm="118.01" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="374.433" Bpm="118.01" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="385.619" Bpm="118.01" Metro="4/4" Battito="3"/>
+    </TRACK>
+    <TRACK TrackID="189283793" Name="From Afar" Artist="Tom Day, Monsoonsiren"
+           Composer="" Album="Makebo Remixes" Grouping="" Genre="Deep House"
+           Kind="Unknown Format" Size="0" TotalTime="461" DiscNumber="0"
+           TrackNumber="0" Year="2020" AverageBpm="121.00" DateAdded="2021-03-06"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="16" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/13573163/" Remixer="Makebo"
+           Tonality="1B" Label="Ruvenzori" Mix="Makebo Remix (Earth Version)">
+      <TEMPO Inizio="0.022" Bpm="121.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="146098703" Name="Tunnel Vision feat. Kauf" Artist="Kauf, Jerro"
+           Composer="" Album="Anjunadeep The Remixes 2020" Grouping="" Genre="Melodic House &amp; Techno"
+           Kind="Unknown Format" Size="0" TotalTime="281" DiscNumber="0"
+           TrackNumber="0" Year="2020" AverageBpm="124.00" DateAdded="2021-03-06"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="4" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/14559884/" Remixer="Durante"
+           Tonality="1A" Label="Anjunadeep" Mix="Durante Remix">
+      <TEMPO Inizio="0.117" Bpm="124.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="45546093" Name="23" Artist="Qrion" Composer="" Album="Sapporo EP"
+           Grouping="" Genre="Melodic House &amp; Techno" Kind="Unknown Format"
+           Size="0" TotalTime="397" DiscNumber="0" TrackNumber="0" Year="2019"
+           AverageBpm="122.00" DateAdded="2021-03-06" BitRate="0" SampleRate="44100"
+           Comments="" PlayCount="5" Rating="0" Location="file://localhost/v4/catalog/tracks/11972217/"
+           Remixer="Spencer Brown" Tonality="4A" Label="Anjunadeep" Mix="Spencer Brown Remix">
+      <TEMPO Inizio="0.023" Bpm="122.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="224629715" Name="Heimarmene" Artist="Volen Sentir" Composer=""
+           Album="Heimarmene" Grouping="" Genre="Organic House / Downtempo"
+           Kind="Unknown Format" Size="0" TotalTime="428" DiscNumber="0"
+           TrackNumber="0" Year="2018" AverageBpm="122.00" DateAdded="2021-03-06"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="8" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/10575663/" Remixer=""
+           Tonality="9B" Label="Shanti Radio Moscow" Mix="Original Mix">
+      <TEMPO Inizio="0.022" Bpm="122.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="7376825" Name="Thinking Of You feat. Camille Safiya"
+           Artist="Serge Devant, Camille Safiya, Damiano C" Composer=""
+           Album="Thinking Of You" Grouping="" Genre="Organic House / Downtempo"
+           Kind="Unknown Format" Size="0" TotalTime="476" DiscNumber="0"
+           TrackNumber="0" Year="2017" AverageBpm="122.00" DateAdded="2021-03-06"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="5" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/9412801/" Remixer=""
+           Tonality="10B" Label="Crosstown Rebels" Mix="Serge Devant&apos;s Floor Cut">
+      <TEMPO Inizio="0.024" Bpm="122.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="182270347" Name="So Far Away" Artist="Evren Furtuna"
+           Composer="" Album="Enceladus" Grouping="" Genre="Deep House"
+           Kind="Unknown Format" Size="0" TotalTime="425" DiscNumber="0"
+           TrackNumber="0" Year="2020" AverageBpm="118.00" DateAdded="2021-03-06"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="7" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/13032616/" Remixer=""
+           Tonality="2A" Label="Saisons" Mix="Original Mix">
+      <TEMPO Inizio="0.039" Bpm="118.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="30.548" Bpm="118.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="130.718" Bpm="118.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="241.566" Bpm="118.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="352.414" Bpm="118.00" Metro="4/4" Battito="2"/>
+    </TRACK>
+    <TRACK TrackID="95722770" Name="Turbulencia" Artist="Stereo Underground"
+           Composer="" Album="Zooz / Space Fields / Turbulencia" Grouping=""
+           Genre="Progressive House" Kind="Unknown Format" Size="0" TotalTime="430"
+           DiscNumber="0" TrackNumber="0" Year="2020" AverageBpm="122.00"
+           DateAdded="2021-03-06" BitRate="0" SampleRate="44100" Comments=""
+           PlayCount="10" Rating="0" Location="file://localhost/v4/catalog/tracks/13776030/"
+           Remixer="" Tonality="3B" Label="Lost &amp; Found" Mix="Original Mix">
+      <TEMPO Inizio="0.026" Bpm="122.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="114021809" Name="Bind" Artist="Howling" Composer=""
+           Album="Bind (Remixes)" Grouping="" Genre="Melodic House &amp; Techno"
+           Kind="Unknown Format" Size="0" TotalTime="378" DiscNumber="0"
+           TrackNumber="0" Year="2020" AverageBpm="123.00" DateAdded="2021-03-06"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="3" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/14162348/" Remixer="Rampa"
+           Tonality="4A" Label="Counter Records" Mix="Rampa Remix">
+      <TEMPO Inizio="0.026" Bpm="123.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="218156076" Name="In Circles" Artist="Kasper Koman" Composer=""
+           Album="In Circles" Grouping="" Genre="Progressive House" Kind="Unknown Format"
+           Size="0" TotalTime="463" DiscNumber="0" TrackNumber="0" Year="2020"
+           AverageBpm="121.00" DateAdded="2021-03-06" BitRate="0" SampleRate="44100"
+           Comments="" PlayCount="13" Rating="0" Location="file://localhost/v4/catalog/tracks/13972099/"
+           Remixer="" Tonality="8B" Label="Juicebox Music" Mix="Extended Mix">
+      <TEMPO Inizio="0.224" Bpm="121.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="181574485" Name="On Air" Artist="Jody Wisternoff, James Grant, Koelle"
+           Composer="" Album="On Air" Grouping="" Genre="Deep House" Kind="Unknown Format"
+           Size="0" TotalTime="449" DiscNumber="0" TrackNumber="0" Year="2018"
+           AverageBpm="122.03" DateAdded="2021-03-06" BitRate="0" SampleRate="44100"
+           Comments="" PlayCount="10" Rating="0" Location="file://localhost/v4/catalog/tracks/10470302/"
+           Remixer="" Tonality="1A" Label="Anjunadeep" Mix="Original Mix">
+      <TEMPO Inizio="0.157" Bpm="122.03" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="128344155" Name="Fatoumata" Artist="Volen Sentir" Composer=""
+           Album="Manasarovar" Grouping="" Genre="Organic House / Downtempo"
+           Kind="Unknown Format" Size="0" TotalTime="503" DiscNumber="0"
+           TrackNumber="0" Year="2019" AverageBpm="121.00" DateAdded="2021-03-06"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="22" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/11715746/" Remixer=""
+           Tonality="6A" Label="Shanti Radio Moscow" Mix="Original Mix">
+      <TEMPO Inizio="0.025" Bpm="121.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="126.471" Num="5" Red="40" Green="226"
+                     Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="211284114" Name="Dry Sobbing" Artist="Nora En Pure"
+           Composer="" Album="Homebound EP" Grouping="" Genre="Melodic House &amp; Techno"
+           Kind="Unknown Format" Size="0" TotalTime="414" DiscNumber="0"
+           TrackNumber="0" Year="2019" AverageBpm="124.00" DateAdded="2021-03-06"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="8" Rating="255"
+           Location="file://localhost/v4/catalog/tracks/12609339/" Remixer=""
+           Tonality="11A" Label="Enormous Tunes" Mix="Original Club Mix">
+      <TEMPO Inizio="0.143" Bpm="124.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="207328551" Name="Kailas" Artist="Volen Sentir" Composer=""
+           Album="Cloud Atlas Map" Grouping="" Genre="Melodic House &amp; Techno"
+           Kind="Unknown Format" Size="0" TotalTime="424" DiscNumber="0"
+           TrackNumber="0" Year="2019" AverageBpm="122.00" DateAdded="2021-03-06"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="14" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/12738037/" Remixer=""
+           Tonality="3B" Label="All Day I Dream " Mix="Original Mix">
+      <TEMPO Inizio="0.356" Bpm="122.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="173612609" Name="Megacities" Artist="Dosem" Composer=""
+           Album="Megacities" Grouping="" Genre="Melodic House &amp; Techno"
+           Kind="Unknown Format" Size="0" TotalTime="375" DiscNumber="0"
+           TrackNumber="0" Year="2020" AverageBpm="124.00" DateAdded="2021-03-06"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="10" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/14103651/" Remixer=""
+           Tonality="4A" Label="Anjunadeep" Mix="Extended Mix">
+      <TEMPO Inizio="0.022" Bpm="124.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="211346125" Name="Why Give Up Before We Try" Artist="Dosem"
+           Composer="" Album="Not A Coincidence / Why Give Up Before We Try"
+           Grouping="" Genre="Progressive House" Kind="Unknown Format" Size="0"
+           TotalTime="378" DiscNumber="0" TrackNumber="0" Year="2018" AverageBpm="123.00"
+           DateAdded="2021-03-06" BitRate="0" SampleRate="44100" Comments=""
+           PlayCount="24" Rating="0" Location="file://localhost/v4/catalog/tracks/10388038/"
+           Remixer="" Tonality="5A" Label="Anjunadeep" Mix="Extended Mix">
+      <TEMPO Inizio="0.025" Bpm="123.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="161537770" Name="Need You" Artist="Luttrell" Composer=""
+           Album="Need You EP" Grouping="" Genre="House" Kind="Unknown Format"
+           Size="0" TotalTime="354" DiscNumber="0" TrackNumber="0" Year="2016"
+           AverageBpm="124.00" DateAdded="2021-03-06" BitRate="0" SampleRate="44100"
+           Comments="" PlayCount="3" Rating="0" Location="file://localhost/v4/catalog/tracks/8473456/"
+           Remixer="" Tonality="5B" Label="Anjunadeep" Mix="Original Mix">
+      <TEMPO Inizio="0.022" Bpm="124.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="114459978" Name="Airtight" Artist="Simon Doty" Composer=""
+           Album="Airtight EP" Grouping="" Genre="Melodic House &amp; Techno"
+           Kind="Unknown Format" Size="0" TotalTime="432" DiscNumber="0"
+           TrackNumber="0" Year="2020" AverageBpm="125.00" DateAdded="2021-03-06"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="18" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/13471774/" Remixer=""
+           Tonality="6A" Label="Anjunadeep" Mix="Extended Mix">
+      <TEMPO Inizio="0.023" Bpm="125.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="138676280" Name="Show Me Love" Artist="Sam Feldt" Composer=""
+           Album="Show Me Love (EDX&apos;s Indian Summer &amp; Quintino Remix)"
+           Grouping="" Genre="Future House" Kind="Unknown Format" Size="0"
+           TotalTime="400" DiscNumber="0" TrackNumber="0" Year="2015" AverageBpm="121.00"
+           DateAdded="2021-03-07" BitRate="0" SampleRate="44100" Comments=""
+           PlayCount="4" Rating="0" Location="file://localhost/v4/catalog/tracks/6674844/"
+           Remixer="EDX" Tonality="8B" Label="Spinnin&apos; Remixes" Mix="EDX&apos;s Indian Summer Remix">
+      <TEMPO Inizio="0.147" Bpm="121.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="142.957" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="111.221" Num="2" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="95.354" Num="3" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="277.833" Num="4" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="293.700" Num="5" Red="40" Green="226"
+                     Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="250137704" Name="Voile De Chine" Artist="DIM KELLY"
+           Composer="" Album="A Winter Sampler III" Grouping="" Genre="Organic House / Downtempo"
+           Kind="Unknown Format" Size="0" TotalTime="408" DiscNumber="0"
+           TrackNumber="0" Year="2021" AverageBpm="125.00" DateAdded="2021-03-07"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="10" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/14661229/" Remixer=""
+           Tonality="5A" Label="All Day I Dream " Mix="Original Mix">
+      <TEMPO Inizio="0.078" Bpm="125.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="58088746" Name="waves.wav feat. Jules" Artist="Jules, Spencer Brown, Wilt Claybourne"
+           Composer="" Album="Illusion Of Perfection EP pt. III" Grouping=""
+           Genre="Progressive House" Kind="Unknown Format" Size="0" TotalTime="455"
+           DiscNumber="0" TrackNumber="0" Year="2018" AverageBpm="126.00"
+           DateAdded="2021-03-07" BitRate="0" SampleRate="44100" Comments=""
+           PlayCount="2" Rating="0" Location="file://localhost/v4/catalog/tracks/10739063/"
+           Remixer="" Tonality="12B" Label="Anjunabeats" Mix="Original Mix">
+      <TEMPO Inizio="0.024" Bpm="126.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="0.977" Bpm="126.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="278.595" Bpm="126.00" Metro="4/4" Battito="2"/>
+    </TRACK>
+    <TRACK TrackID="248424296" Name="The Blind Navigator" Artist="Kasper Koman"
+           Composer="" Album="Anjunadeep The Yearbook 2020" Grouping=""
+           Genre="Progressive House" Kind="Unknown Format" Size="0" TotalTime="475"
+           DiscNumber="0" TrackNumber="0" Year="2020" AverageBpm="122.00"
+           DateAdded="2021-03-09" BitRate="0" SampleRate="44100" Comments=""
+           PlayCount="8" Rating="0" Location="file://localhost/v4/catalog/tracks/14615773/"
+           Remixer="" Tonality="6A" Label="Anjunadeep" Mix="Extended Mix">
+      <TEMPO Inizio="0.095" Bpm="122.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="136500408" Name="The Blind Navigator" Artist="Kasper Koman"
+           Composer="" Album="The Blind Navigator / Like Clockwork" Grouping=""
+           Genre="Melodic House &amp; Techno" Kind="Unknown Format" Size="0"
+           TotalTime="475" DiscNumber="0" TrackNumber="0" Year="2020" AverageBpm="122.00"
+           DateAdded="2021-03-09" BitRate="0" SampleRate="44100" Comments=""
+           PlayCount="9" Rating="0" Location="file://localhost/v4/catalog/tracks/13471969/"
+           Remixer="" Tonality="6A" Label="Anjunadeep" Mix="Extended Mix">
+      <TEMPO Inizio="0.095" Bpm="122.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="44817945" Name="Fragment II" Artist="boerd" Composer=""
+           Album="Fragment II" Grouping="" Genre="Electronica" Kind="Unknown Format"
+           Size="0" TotalTime="399" DiscNumber="0" TrackNumber="0" Year="2018"
+           AverageBpm="122.03" DateAdded="2021-03-09" BitRate="0" SampleRate="44100"
+           Comments="" PlayCount="5" Rating="0" Location="file://localhost/v4/catalog/tracks/10371428/"
+           Remixer="" Tonality="12B" Label="Anjunadeep" Mix="Original Mix">
+      <TEMPO Inizio="0.107" Bpm="122.03" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="83907683" Name="Out Of Me" Artist="Luttrell" Composer=""
+           Album="Anjunadeep The Yearbook 2018" Grouping="" Genre="Melodic House &amp; Techno"
+           Kind="Unknown Format" Size="0" TotalTime="402" DiscNumber="0"
+           TrackNumber="0" Year="2018" AverageBpm="124.01" DateAdded="2021-03-09"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="5" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/13711408/" Remixer=""
+           Tonality="5A" Label="Anjunadeep" Mix="Original Mix">
+      <TEMPO Inizio="0.480" Bpm="124.01" Metro="4/4" Battito="2"/>
+    </TRACK>
+    <TRACK TrackID="223046731" Name="About You" Artist="Tinlicker" Composer=""
+           Album="About You" Grouping="" Genre="Progressive House" Kind="Unknown Format"
+           Size="0" TotalTime="376" DiscNumber="0" TrackNumber="0" Year="2018"
+           AverageBpm="123.00" DateAdded="2021-03-13" BitRate="0" SampleRate="44100"
+           Comments="" PlayCount="5" Rating="0" Location="file://localhost/v4/catalog/tracks/11383250/"
+           Remixer="" Tonality="1A" Label="mau5trap" Mix="Original Mix">
+      <TEMPO Inizio="0.038" Bpm="123.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="117758875" Name="Need You feat. Thomas Oliver" Artist="Thomas Oliver, Tinlicker"
+           Composer="" Album="Anjunabeats The Yearbook 2019" Grouping=""
+           Genre="Progressive House" Kind="Unknown Format" Size="0" TotalTime="417"
+           DiscNumber="0" TrackNumber="0" Year="2019" AverageBpm="123.00"
+           DateAdded="2021-03-13" BitRate="0" SampleRate="44100" Comments=""
+           PlayCount="4" Rating="0" Location="file://localhost/v4/catalog/tracks/12849664/"
+           Remixer="" Tonality="8B" Label="Anjunabeats" Mix="Extended Mix">
+      <TEMPO Inizio="0.101" Bpm="123.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="111027328" Name="The Spark feat. Christian Burns" Artist="Jody Wisternoff, Christian Burns"
+           Composer="" Album="Nightwhisper" Grouping="" Genre="Melodic House &amp; Techno"
+           Kind="Unknown Format" Size="0" TotalTime="393" DiscNumber="0"
+           TrackNumber="0" Year="2020" AverageBpm="122.00" DateAdded="2021-03-13"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="6" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/13473214/" Remixer=""
+           Tonality="5A" Label="Anjunadeep" Mix="Original Mix">
+      <TEMPO Inizio="0.098" Bpm="122.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="208760742" Name="Almost Cold" Artist="Fulltone" Composer=""
+           Album="Two Year Anniversary (VA)" Grouping="" Genre="Organic House / Downtempo"
+           Kind="Unknown Format" Size="0" TotalTime="412" DiscNumber="0"
+           TrackNumber="0" Year="2019" AverageBpm="122.00" DateAdded="2021-03-21"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="16" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/11395097/" Remixer=""
+           Tonality="8A" Label="Magician On Duty" Mix="Original Mix">
+      <TEMPO Inizio="0.022" Bpm="122.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="174762569" Name="Mirari" Artist="Alex O&apos;Rion" Composer=""
+           Album="The Long Walk" Grouping="" Genre="Progressive House" Kind="Unknown Format"
+           Size="0" TotalTime="484" DiscNumber="0" TrackNumber="0" Year="2020"
+           AverageBpm="120.00" DateAdded="2021-03-21" BitRate="0" SampleRate="44100"
+           Comments="" PlayCount="10" Rating="0" Location="file://localhost/v4/catalog/tracks/14198625/"
+           Remixer="" Tonality="5A" Label="Replug" Mix="Day Mix">
+      <TEMPO Inizio="0.085" Bpm="120.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="110150399" Name="Submission" Artist="Ben Bohmer" Composer=""
+           Album="Sessions - Selected Tracks, Pt. 6 - Mixed by m.O.N.R.O.E. &amp; Adisyn"
+           Grouping="" Genre="Tech House" Kind="Unknown Format" Size="0"
+           TotalTime="449" DiscNumber="0" TrackNumber="0" Year="2017" AverageBpm="123.00"
+           DateAdded="2021-03-21" BitRate="0" SampleRate="44100" Comments=""
+           PlayCount="9" Rating="0" Location="file://localhost/v4/catalog/tracks/9928954/"
+           Remixer="" Tonality="10A" Label="Get Physical Music" Mix="Original Mix">
+      <TEMPO Inizio="0.268" Bpm="123.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="19782704" Name="Feel It for You" Artist="Helvetic Nerds"
+           Composer="" Album="Feel It for You" Grouping="" Genre="House"
+           Kind="Unknown Format" Size="0" TotalTime="333" DiscNumber="0"
+           TrackNumber="0" Year="2018" AverageBpm="126.00" DateAdded="2021-04-10"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="2" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/11388422/" Remixer=""
+           Tonality="4A" Label="Enormous Tunes" Mix="Original Club Mix">
+      <TEMPO Inizio="0.148" Bpm="126.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="60229068" Name="Voice Mail" Artist="Double Dee, Steinski"
+           Composer="" Album="What Does It All Mean? - 1983-2006 Retrospective"
+           Grouping="" Genre="Electronica" Kind="Unknown Format" Size="0"
+           TotalTime="335" DiscNumber="0" TrackNumber="0" Year="2008" AverageBpm="112.50"
+           DateAdded="2021-04-10" BitRate="0" SampleRate="44100" Comments=""
+           PlayCount="1" Rating="0" Location="file://localhost/v4/catalog/tracks/887689/"
+           Remixer="" Tonality="7A" Label="Illegal Art" Mix="Sugar Hill Suite">
+      <TEMPO Inizio="0.424" Bpm="112.50" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="0.958" Bpm="112.50" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="15.892" Bpm="112.50" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="32.426" Bpm="112.50" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="50.560" Bpm="112.50" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="67.094" Bpm="112.50" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="86.828" Bpm="112.50" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="101.762" Bpm="112.50" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="118.296" Bpm="112.50" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="136.430" Bpm="112.50" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="152.964" Bpm="112.50" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="169.498" Bpm="112.50" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="187.632" Bpm="112.50" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="204.166" Bpm="112.50" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="220.700" Bpm="112.50" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="238.834" Bpm="112.50" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="255.368" Bpm="112.50" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="271.902" Bpm="112.50" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="290.036" Bpm="112.50" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="306.570" Bpm="112.50" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="323.104" Bpm="112.50" Metro="4/4" Battito="2"/>
+    </TRACK>
+    <TRACK TrackID="133554259" Name="Call You Back" Artist="Josh Butler, Bontan"
+           Composer="" Album="Armada Deep - Ibiza 2017 - Extended Versions"
+           Grouping="" Genre="Tech House" Kind="Unknown Format" Size="0"
+           TotalTime="429" DiscNumber="0" TrackNumber="0" Year="2017" AverageBpm="126.00"
+           DateAdded="2021-04-10" BitRate="0" SampleRate="44100" Comments=""
+           PlayCount="3" Rating="0" Location="file://localhost/v4/catalog/tracks/9419398/"
+           Remixer="" Tonality="8A" Label="Armada Music Albums" Mix="Original Mix">
+      <TEMPO Inizio="0.035" Bpm="126.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="6.226" Bpm="126.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="363.844" Bpm="126.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="233027626" Name="Losing It" Artist="FISHER (OZ)" Composer=""
+           Album="Losing It" Grouping="" Genre="Tech House" Kind="Unknown Format"
+           Size="0" TotalTime="400" DiscNumber="0" TrackNumber="0" Year="2018"
+           AverageBpm="125.00" DateAdded="2021-04-10" BitRate="0" SampleRate="44100"
+           Comments="" PlayCount="5" Rating="0" Location="file://localhost/v4/catalog/tracks/10766349/"
+           Remixer="" Tonality="6A" Label="Catch &amp; Release" Mix="Extended">
+      <TEMPO Inizio="0.070" Bpm="125.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="164.229" Bpm="125.00" Metro="4/4" Battito="3"/>
+      <POSITION_MARK Name="" Type="0" Start="46.150" Num="0" Red="40" Green="226"
+                     Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="235530964" Name="Temptation" Artist="Mark Reeve" Composer=""
+           Album="Temptation" Grouping="" Genre="Techno (Peak Time / Driving)"
+           Kind="Unknown Format" Size="0" TotalTime="436" DiscNumber="0"
+           TrackNumber="0" Year="2018" AverageBpm="128.00" DateAdded="2021-04-10"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="6" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/11306345/" Remixer=""
+           Tonality="1A" Label="SubVision" Mix="Original Mix">
+      <TEMPO Inizio="0.090" Bpm="128.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="75.090" Num="0" Red="40" Green="226"
+                     Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="234602969" Name="Voicemail" Artist="Green Velvet, Patrick Topping"
+           Composer="" Album="Cajual Vs Relief Compilation Vol 2" Grouping=""
+           Genre="Tech House" Kind="Unknown Format" Size="0" TotalTime="436"
+           DiscNumber="0" TrackNumber="0" Year="2015" AverageBpm="124.00"
+           DateAdded="2021-04-10" BitRate="0" SampleRate="44100" Comments=""
+           PlayCount="7" Rating="0" Location="file://localhost/v4/catalog/tracks/6317670/"
+           Remixer="" Tonality="6A" Label="Cajual" Mix="Original Mix">
+      <TEMPO Inizio="0.219" Bpm="124.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="263268567" Name="The First Time" Artist="Bontan" Composer=""
+           Album="The First Time" Grouping="" Genre="Tech House" Kind="Unknown Format"
+           Size="0" TotalTime="439" DiscNumber="0" TrackNumber="0" Year="2017"
+           AverageBpm="123.00" DateAdded="2021-04-10" BitRate="0" SampleRate="44100"
+           Comments="" PlayCount="6" Rating="0" Location="file://localhost/v4/catalog/tracks/9103474/"
+           Remixer="" Tonality="6A" Label="Hot Creations" Mix="Original Mix">
+      <TEMPO Inizio="0.027" Bpm="123.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="109.296" Num="0" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="294.662" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="181962162" Name="Back To Funk" Artist="Martin Ikin, Sammy Porter"
+           Composer="" Album="Back To Funk (Extended)" Grouping="" Genre="Tech House"
+           Kind="Unknown Format" Size="0" TotalTime="353" DiscNumber="0"
+           TrackNumber="0" Year="2020" AverageBpm="125.00" DateAdded="2021-04-10"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="4" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/13276032/" Remixer=""
+           Tonality="9A" Label="Lovejuice Records" Mix="Extended Mix">
+      <TEMPO Inizio="0.144" Bpm="125.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="291.025" Bpm="125.00" Metro="4/4" Battito="3"/>
+    </TRACK>
+    <TRACK TrackID="227504038" Name="Stop It" Artist="FISHER (OZ)" Composer=""
+           Album="Oi Oi" Grouping="" Genre="Tech House" Kind="Unknown Format"
+           Size="0" TotalTime="387" DiscNumber="0" TrackNumber="0" Year="2017"
+           AverageBpm="124.00" DateAdded="2021-04-10" BitRate="0" SampleRate="44100"
+           Comments="" PlayCount="2" Rating="0" Location="file://localhost/v4/catalog/tracks/9882082/"
+           Remixer="" Tonality="6A" Label="DIRTYBIRD" Mix="Original Mix">
+      <TEMPO Inizio="0.025" Bpm="124.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="16530959" Name="Private Party" Artist="Evren Furtuna, The Writers Poet"
+           Composer="" Album="My Personal Deep House, Vol. 1" Grouping=""
+           Genre="Dance / Electro Pop" Kind="Unknown Format" Size="0" TotalTime="456"
+           DiscNumber="0" TrackNumber="0" Year="2017" AverageBpm="122.00"
+           DateAdded="2021-04-13" BitRate="0" SampleRate="44100" Comments=""
+           PlayCount="1" Rating="0" Location="file://localhost/v4/catalog/tracks/9165503/"
+           Remixer="" Tonality="11A" Label="Tronic Soundz" Mix="Original Mix">
+      <TEMPO Inizio="0.023" Bpm="122.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="63087915" Name="Light Eyes" Artist="Tim Green" Composer=""
+           Album="Vacation to Life EP" Grouping="" Genre="Melodic House &amp; Techno"
+           Kind="Unknown Format" Size="0" TotalTime="522" DiscNumber="0"
+           TrackNumber="0" Year="2020" AverageBpm="122.00" DateAdded="2021-04-13"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="3" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/13186519/" Remixer=""
+           Tonality="11B" Label="All Day I Dream " Mix="Original Mix">
+      <TEMPO Inizio="0.283" Bpm="122.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="190013948" Name="Projection" Artist="Dosem" Composer=""
+           Album="Projection" Grouping="" Genre="Tech House" Kind="Unknown Format"
+           Size="0" TotalTime="375" DiscNumber="0" TrackNumber="0" Year="2016"
+           AverageBpm="124.00" DateAdded="2021-04-16" BitRate="0" SampleRate="44100"
+           Comments="" PlayCount="5" Rating="0" Location="file://localhost/v4/catalog/tracks/8479765/"
+           Remixer="" Tonality="9A" Label="Toolroom" Mix="Original Mix">
+      <TEMPO Inizio="0.023" Bpm="124.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="157129480" Name="Birthright" Artist="Nora En Pure" Composer=""
+           Album="Birthright (The Remixes)" Grouping="" Genre="Melodic House &amp; Techno"
+           Kind="Unknown Format" Size="0" TotalTime="441" DiscNumber="0"
+           TrackNumber="0" Year="2019" AverageBpm="124.00" DateAdded="2021-04-16"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="9" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/12378705/" Remixer="Dosem"
+           Tonality="10A" Label="Enormous Tunes" Mix="Dosem Remix">
+      <TEMPO Inizio="0.023" Bpm="124.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="30.991" Num="0" Red="40" Green="226"
+                     Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="208146170" Name="Moogami" Artist="Lee Burridge, Lost Desert"
+           Composer="" Album="Moogami EP" Grouping="" Genre="Melodic House &amp; Techno"
+           Kind="Unknown Format" Size="0" TotalTime="541" DiscNumber="0"
+           TrackNumber="0" Year="2020" AverageBpm="121.00" DateAdded="2021-04-16"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="6" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/13082289/" Remixer=""
+           Tonality="1A" Label="TRYBESof" Mix="Original Mix">
+      <TEMPO Inizio="0.083" Bpm="121.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="130780089" Name="Aurora" Artist="Evren Furtuna" Composer=""
+           Album="Aurora" Grouping="" Genre="Deep House" Kind="Unknown Format"
+           Size="0" TotalTime="435" DiscNumber="0" TrackNumber="0" Year="2020"
+           AverageBpm="118.00" DateAdded="2021-04-16" BitRate="0" SampleRate="44100"
+           Comments="" PlayCount="2" Rating="0" Location="file://localhost/v4/catalog/tracks/14365713/"
+           Remixer="" Tonality="6A" Label="Be Adult Music" Mix="Original Mix">
+      <TEMPO Inizio="0.022" Bpm="118.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="0.531" Bpm="118.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="121.040" Bpm="118.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="271.549" Bpm="118.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="401.719" Bpm="118.00" Metro="4/4" Battito="3"/>
+    </TRACK>
+    <TRACK TrackID="98292848" Name="Crystal" Artist="Death on the Balcony, Flowers on Monday"
+           Composer="" Album="Ways &amp; Means EP" Grouping="" Genre="Organic House / Downtempo"
+           Kind="Unknown Format" Size="0" TotalTime="450" DiscNumber="0"
+           TrackNumber="0" Year="2020" AverageBpm="120.00" DateAdded="2021-04-16"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="4" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/14383132/" Remixer=""
+           Tonality="12A" Label="Do Not Sit On The Furniture Recordings"
+           Mix="Original Mix">
+      <TEMPO Inizio="0.481" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="253.982" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="254.481" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="254.982" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="255.481" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="255.982" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="256.481" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="256.982" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="257.481" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="257.982" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="258.481" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="258.982" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="259.481" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="259.982" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="260.481" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="260.982" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="261.481" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="261.982" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="262.481" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="262.982" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="263.481" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="263.982" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="264.481" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="264.982" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="265.481" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="265.982" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="266.481" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="266.982" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="267.481" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="267.982" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="268.481" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="268.982" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="269.481" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="269.982" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="270.481" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="270.982" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="271.481" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="271.982" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="272.481" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="272.982" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="273.481" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="273.982" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="274.481" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="274.982" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="275.481" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="275.982" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="276.481" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="276.982" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="277.481" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="277.982" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="278.481" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="278.982" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="279.481" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="279.982" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="280.481" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="280.982" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="281.481" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="281.982" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="282.481" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="282.982" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="283.481" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="283.982" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="284.481" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="284.982" Bpm="120.00" Metro="4/4" Battito="3"/>
+    </TRACK>
+    <TRACK TrackID="216919285" Name="Blue Space feat. Jinadu" Artist="Jody Wisternoff, Jinadu, James Grant"
+           Composer="" Album="Blue Space" Grouping="" Genre="Melodic House &amp; Techno"
+           Kind="Unknown Format" Size="0" TotalTime="432" DiscNumber="0"
+           TrackNumber="0" Year="2020" AverageBpm="120.00" DateAdded="2021-04-18"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="10" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/13281233/" Remixer=""
+           Tonality="4A" Label="Anjunadeep" Mix="Original Mix">
+      <TEMPO Inizio="0.152" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="55.651" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="56.152" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="56.651" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="57.152" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="57.651" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="58.152" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="58.651" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="59.152" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="59.651" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="60.152" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="60.651" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="61.152" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="61.651" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="62.152" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="62.651" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="63.152" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="63.651" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="64.152" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="64.651" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="65.152" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="65.651" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="66.152" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="66.651" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="67.152" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="67.651" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="68.152" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="68.651" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="357.650" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="358.151" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="358.650" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="359.151" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="359.650" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="360.151" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="360.650" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="361.151" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="361.650" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="362.151" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="362.650" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="363.151" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="363.650" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="364.151" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="364.650" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="365.151" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="365.650" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="366.151" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="366.650" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="367.151" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="367.650" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="368.151" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="368.650" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="369.151" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="369.650" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="370.151" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="370.650" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <POSITION_MARK Name="" Type="0" Start="40.152" Num="0" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="48.152" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="148353848" Name="Upswing" Artist="Alex Metric, Amtrac"
+           Composer="" Album="Upswing" Grouping="" Genre="Melodic House &amp; Techno"
+           Kind="Unknown Format" Size="0" TotalTime="352" DiscNumber="0"
+           TrackNumber="0" Year="2020" AverageBpm="121.00" DateAdded="2021-04-18"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="3" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/14118452/" Remixer=""
+           Tonality="12A" Label="Anjunadeep" Mix="Original Mix">
+      <TEMPO Inizio="0.043" Bpm="121.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="15237244" Name="Overtones" Artist="Frost" Composer=""
+           Album="Overtones" Grouping="" Genre="Melodic House &amp; Techno"
+           Kind="Unknown Format" Size="0" TotalTime="375" DiscNumber="0"
+           TrackNumber="0" Year="2020" AverageBpm="123.00" DateAdded="2021-04-18"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="1" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/13222170/" Remixer=""
+           Tonality="12A" Label="Anjunadeep" Mix="Extended Mix">
+      <TEMPO Inizio="0.036" Bpm="123.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="185221557" Name="Keep On" Artist="Lane 8" Composer=""
+           Album="Anjunadeep The Yearbook 2020" Grouping="" Genre="Melodic House &amp; Techno"
+           Kind="Unknown Format" Size="0" TotalTime="353" DiscNumber="0"
+           TrackNumber="0" Year="2020" AverageBpm="122.00" DateAdded="2021-04-18"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/14615778/" Remixer=""
+           Tonality="7A" Label="Anjunadeep" Mix="Extended Mix">
+      <TEMPO Inizio="0.025" Bpm="122.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="230910616" Name="Need You feat. Thomas Oliver" Artist="Thomas Oliver, Tinlicker"
+           Composer="" Album="Need You" Grouping="" Genre="Progressive House"
+           Kind="Unknown Format" Size="0" TotalTime="417" DiscNumber="0"
+           TrackNumber="0" Year="2019" AverageBpm="123.00" DateAdded="2021-04-18"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="2" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/12530063/" Remixer=""
+           Tonality="8B" Label="Anjunabeats" Mix="Extended Mix">
+      <TEMPO Inizio="0.101" Bpm="123.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="266973389" Name="My Last Hope" Artist="Mike Griego"
+           Composer="" Album="Winter Collection 2020" Grouping="" Genre="Progressive House"
+           Kind="Unknown Format" Size="0" TotalTime="572" DiscNumber="0"
+           TrackNumber="0" Year="2020" AverageBpm="124.00" DateAdded="2021-04-27"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="6" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/14454254/" Remixer=""
+           Tonality="8A" Label="The Soundgarden" Mix="Original Mix">
+      <TEMPO Inizio="0.028" Bpm="124.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="147.126" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="139.384" Num="0" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="154.868" Num="2" Red="40" Green="226"
+                     Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="116837437" Name="Downpour" Artist="Spencer Brown" Composer=""
+           Album="Downpour EP" Grouping="" Genre="Trance" Kind="Unknown Format"
+           Size="0" TotalTime="426" DiscNumber="0" TrackNumber="0" Year="2017"
+           AverageBpm="125.00" DateAdded="2021-04-27" BitRate="0" SampleRate="44100"
+           Comments="" PlayCount="9" Rating="0" Location="file://localhost/v4/catalog/tracks/9872060/"
+           Remixer="" Tonality="9A" Label="Anjunabeats" Mix="Original Mix">
+      <TEMPO Inizio="0.022" Bpm="125.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="268094302" Name="Hippie Hill" Artist="Spencer Brown"
+           Composer="" Album="Illusion Of Perfection EP pt. II" Grouping=""
+           Genre="Progressive House" Kind="Unknown Format" Size="0" TotalTime="422"
+           DiscNumber="0" TrackNumber="0" Year="2018" AverageBpm="126.00"
+           DateAdded="2021-04-27" BitRate="0" SampleRate="44100" Comments=""
+           PlayCount="10" Rating="0" Location="file://localhost/v4/catalog/tracks/10682735/"
+           Remixer="" Tonality="5A" Label="Anjunabeats" Mix="Original Mix">
+      <TEMPO Inizio="0.025" Bpm="126.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="0.502" Bpm="126.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="109.074" Bpm="126.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="255.265" Bpm="126.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="393.837" Bpm="126.00" Metro="4/4" Battito="4"/>
+    </TRACK>
+    <TRACK TrackID="248997647" Name="Covenant" Artist="Dubtommy" Composer=""
+           Album="50 Reasons to Spring!" Grouping="" Genre="Minimal / Deep Tech"
+           Kind="Unknown Format" Size="0" TotalTime="390" DiscNumber="0"
+           TrackNumber="0" Year="2020" AverageBpm="124.00" DateAdded="2021-04-27"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="9" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/13364164/" Remixer=""
+           Tonality="4A" Label="MixCult Records" Mix="Original Mix">
+      <TEMPO Inizio="0.026" Bpm="124.00" Metro="4/4" Battito="4"/>
+    </TRACK>
+    <TRACK TrackID="150929019" Name="Neunivai" Artist="Volen Sentir" Composer=""
+           Album="Neunivai" Grouping="" Genre="Organic House / Downtempo"
+           Kind="Unknown Format" Size="0" TotalTime="438" DiscNumber="0"
+           TrackNumber="0" Year="2021" AverageBpm="122.00" DateAdded="2021-05-04"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="8" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/15105464/" Remixer=""
+           Tonality="6A" Label="Shanti Radio Moscow" Mix="Original Mix">
+      <TEMPO Inizio="0.024" Bpm="122.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="259821292" Name="Layover" Artist="Luttrell" Composer=""
+           Album="Into Clouds" Grouping="" Genre="Melodic House &amp; Techno"
+           Kind="Unknown Format" Size="0" TotalTime="347" DiscNumber="0"
+           TrackNumber="0" Year="2019" AverageBpm="123.00" DateAdded="2021-05-07"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="4" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/11563957/" Remixer=""
+           Tonality="2A" Label="Anjunadeep" Mix="Original Mix">
+      <TEMPO Inizio="0.026" Bpm="123.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="236551368" Name="Outro" Artist="Qrion" Composer="" Album="Sine Wave Party EP"
+           Grouping="" Genre="Melodic House &amp; Techno" Kind="Unknown Format"
+           Size="0" TotalTime="264" DiscNumber="0" TrackNumber="0" Year="2019"
+           AverageBpm="120.00" DateAdded="2021-05-11" BitRate="0" SampleRate="44100"
+           Comments="" PlayCount="2" Rating="0" Location="file://localhost/v4/catalog/tracks/12791148/"
+           Remixer="" Tonality="3A" Label="Anjunadeep" Mix="Original Mix">
+      <TEMPO Inizio="0.221" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.221" Num="0" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="100259613" Name="Underworld" Artist="Nacho Varela, Cruz Vittor, Nauel"
+           Composer="" Album="Underworld" Grouping="" Genre="Deep House"
+           Kind="Unknown Format" Size="0" TotalTime="472" DiscNumber="0"
+           TrackNumber="0" Year="2019" AverageBpm="122.00" DateAdded="2021-05-21"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="9" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/12469473/" Remixer=""
+           Tonality="8A" Label="Shanti Radio Moscow" Mix="Original Mix">
+      <TEMPO Inizio="0.021" Bpm="122.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="251528463" Name="Bamboo" Artist="Nacho Varela, Cruz Vittor"
+           Composer="" Album="Nomad&apos;s Secret EP" Grouping="" Genre="Melodic House &amp; Techno"
+           Kind="Unknown Format" Size="0" TotalTime="467" DiscNumber="0"
+           TrackNumber="0" Year="2019" AverageBpm="123.00" DateAdded="2021-05-21"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="3" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/12564344/" Remixer=""
+           Tonality="4A" Label="Tale &amp; Tone" Mix="Original Mix">
+      <TEMPO Inizio="0.024" Bpm="123.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="109690387" Name="Jacaranda" Artist="Nacho Varela, Cruz Vittor"
+           Composer="" Album="Jacaranda" Grouping="" Genre="Organic House / Downtempo"
+           Kind="Unknown Format" Size="0" TotalTime="473" DiscNumber="0"
+           TrackNumber="0" Year="2020" AverageBpm="122.00" DateAdded="2021-05-21"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="15" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/14356054/" Remixer=""
+           Tonality="8A" Label="Hoomidaas" Mix="Original Mix">
+      <TEMPO Inizio="0.036" Bpm="122.00" Metro="4/4" Battito="4"/>
+      <POSITION_MARK Name="" Type="0" Start="32.003" Num="0" Red="40" Green="226"
+                     Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="2109989" Name="Thanks, Guy" Artist="Spencer Brown" Composer=""
+           Album="Thanks, Guy" Grouping="" Genre="Melodic House &amp; Techno"
+           Kind="Unknown Format" Size="0" TotalTime="390" DiscNumber="0"
+           TrackNumber="0" Year="2021" AverageBpm="125.00" DateAdded="2021-05-21"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="4" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/15284509/" Remixer=""
+           Tonality="7A" Label="Factory 93 Records" Mix="Original Mix">
+      <TEMPO Inizio="0.022" Bpm="125.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="62.903" Bpm="125.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="260.184" Bpm="125.00" Metro="4/4" Battito="3"/>
+    </TRACK>
+    <TRACK TrackID="161451897" Name="Extraction" Artist="Dosem" Composer=""
+           Album="Extraction" Grouping="" Genre="Melodic House &amp; Techno"
+           Kind="Unknown Format" Size="0" TotalTime="375" DiscNumber="0"
+           TrackNumber="0" Year="2020" AverageBpm="124.00" DateAdded="2021-05-23"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="7" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/13410300/" Remixer=""
+           Tonality="10A" Label="Anjunadeep" Mix="Extended Mix">
+      <TEMPO Inizio="0.025" Bpm="124.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="149183028" Name="Boy" Artist="ODESZA" Composer="" Album="A Moment Apart"
+           Grouping="" Genre="Dance / Electro Pop" Kind="Unknown Format"
+           Size="0" TotalTime="183" DiscNumber="0" TrackNumber="0" Year="2017"
+           AverageBpm="140.00" DateAdded="2021-05-23" BitRate="0" SampleRate="44100"
+           Comments="" PlayCount="0" Rating="0" Location="file://localhost/v4/catalog/tracks/9722112/"
+           Remixer="" Tonality="8B" Label="Counter Records" Mix="Original Mix">
+      <TEMPO Inizio="0.308" Bpm="140.00" Metro="4/4" Battito="3"/>
+    </TRACK>
+    <TRACK TrackID="115316423" Name="Cloud Vibes" Artist="Ki.Mi." Composer=""
+           Album="50 Reasons to Spring!" Grouping="" Genre="Deep House"
+           Kind="Unknown Format" Size="0" TotalTime="458" DiscNumber="0"
+           TrackNumber="0" Year="2020" AverageBpm="122.00" DateAdded="2021-05-27"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="15" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/13364167/" Remixer=""
+           Tonality="2A" Label="MixCult Records" Mix="Original Mix">
+      <TEMPO Inizio="0.148" Bpm="122.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="239757778" Name="Can&apos;t Believe" Artist="Promnite"
+           Composer="" Album="Can&apos;t Believe" Grouping="" Genre="Melodic House &amp; Techno"
+           Kind="Unknown Format" Size="0" TotalTime="296" DiscNumber="0"
+           TrackNumber="0" Year="2021" AverageBpm="119.00" DateAdded="2021-05-27"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="1" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/14808833/" Remixer=""
+           Tonality="12B" Label="Anjunadeep" Mix="Extended Mix">
+      <TEMPO Inizio="0.179" Bpm="119.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="1.188" Bpm="119.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="84.886" Bpm="119.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="163.542" Bpm="119.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="239.677" Bpm="119.00" Metro="4/4" Battito="4"/>
+    </TRACK>
+    <TRACK TrackID="191242081" Name="Apolune" Artist="Jesper Ryom" Composer=""
+           Album="Aviator" Grouping="" Genre="Deep House" Kind="Unknown Format"
+           Size="0" TotalTime="402" DiscNumber="0" TrackNumber="0" Year="2014"
+           AverageBpm="123.00" DateAdded="2021-06-01" BitRate="0" SampleRate="44100"
+           Comments="" PlayCount="3" Rating="0" Location="file://localhost/v4/catalog/tracks/12168796/"
+           Remixer="" Tonality="8B" Label="Delicieuse Records" Mix="Original Mix">
+      <TEMPO Inizio="0.025" Bpm="123.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="21915310" Name="Always Do You feat. Rachel K. Collier"
+           Artist="Spencer Brown, Rachel K. Collier" Composer="" Album="Embarcadero EP"
+           Grouping="" Genre="Progressive House" Kind="Unknown Format" Size="0"
+           TotalTime="374" DiscNumber="0" TrackNumber="0" Year="2017" AverageBpm="126.00"
+           DateAdded="2021-06-02" BitRate="0" SampleRate="44100" Comments=""
+           PlayCount="4" Rating="0" Location="file://localhost/v4/catalog/tracks/9373046/"
+           Remixer="" Tonality="10A" Label="Anjunabeats" Mix="Original Mix">
+      <TEMPO Inizio="0.040" Bpm="126.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="116.231" Bpm="126.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="145636827" Name="Kush" Artist="Nacho Varela, Cruz Vittor"
+           Composer="" Album="Anjunadeep Explorations 18" Grouping="" Genre="Organic House / Downtempo"
+           Kind="Unknown Format" Size="0" TotalTime="468" DiscNumber="0"
+           TrackNumber="0" Year="2021" AverageBpm="123.00" DateAdded="2021-06-05"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="16" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/15298417/" Remixer=""
+           Tonality="6B" Label="Anjunadeep" Mix="Extended Mix">
+      <TEMPO Inizio="0.081" Bpm="123.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="52301175" Name="Aum" Artist="Evren Furtuna" Composer=""
+           Album="Aum" Grouping="" Genre="Deep House" Kind="Unknown Format"
+           Size="0" TotalTime="398" DiscNumber="0" TrackNumber="0" Year="2019"
+           AverageBpm="118.00" DateAdded="2021-06-06" BitRate="0" SampleRate="44100"
+           Comments="" PlayCount="10" Rating="0" Location="file://localhost/v4/catalog/tracks/11728706/"
+           Remixer="" Tonality="8A" Label="Be Adult Music" Mix="Original Mix">
+      <TEMPO Inizio="0.022" Bpm="118.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="0.531" Bpm="118.00" Metro="4/4" Battito="2"/>
+      <POSITION_MARK Name="" Type="0" Start="195.276" Num="0" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="393.073" Num="7" Red="40" Green="226"
+                     Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="107464213" Name="Kai" Artist="Volen Sentir" Composer=""
+           Album="Manasarovar" Grouping="" Genre="Organic House / Downtempo"
+           Kind="Unknown Format" Size="0" TotalTime="454" DiscNumber="0"
+           TrackNumber="0" Year="2019" AverageBpm="121.00" DateAdded="2021-06-11"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="11" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/11715748/" Remixer=""
+           Tonality="9A" Label="Shanti Radio Moscow" Mix="Original Mix">
+      <TEMPO Inizio="0.019" Bpm="121.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="33641215" Name="Come Together" Artist="Marsh, Nox Vahn"
+           Composer="" Album="Come Together (Matthias Meyer Remix)" Grouping=""
+           Genre="Organic House / Downtempo" Kind="Unknown Format" Size="0"
+           TotalTime="464" DiscNumber="0" TrackNumber="0" Year="2020" AverageBpm="120.00"
+           DateAdded="2021-06-11" BitRate="0" SampleRate="44100" Comments=""
+           PlayCount="1" Rating="0" Location="file://localhost/v4/catalog/tracks/14072010/"
+           Remixer="" Tonality="6A" Label="Anjunadeep" Mix="Matthias Meyer Extended Mix">
+      <TEMPO Inizio="0.229" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="432.230" Bpm="120.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="180277794" Name="Come Together" Artist="Marsh, Nox Vahn"
+           Composer="" Album="Come Together / Naturish" Grouping="" Genre="Melodic House &amp; Techno"
+           Kind="Unknown Format" Size="0" TotalTime="484" DiscNumber="0"
+           TrackNumber="0" Year="2020" AverageBpm="120.00" DateAdded="2021-06-11"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/13502984/" Remixer=""
+           Tonality="7A" Label="Anjunadeep" Mix="Extended Mix">
+      <TEMPO Inizio="0.022" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="83.523" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="265.024" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="446.525" Bpm="120.00" Metro="4/4" Battito="2"/>
+    </TRACK>
+    <TRACK TrackID="214374213" Name="Come Together" Artist="Marsh, Nox Vahn"
+           Composer="" Album="Come Together (Matthias Meyer Remix)" Grouping=""
+           Genre="Organic House / Downtempo" Kind="Unknown Format" Size="0"
+           TotalTime="486" DiscNumber="0" TrackNumber="0" Year="2020" AverageBpm="120.00"
+           DateAdded="2021-06-11" BitRate="0" SampleRate="44100" Comments=""
+           PlayCount="1" Rating="0" Location="file://localhost/v4/catalog/tracks/14072011/"
+           Remixer="" Tonality="7A" Label="Anjunadeep" Mix="Extended Mix">
+      <TEMPO Inizio="0.103" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="129.602" Bpm="120.00" Metro="4/4" Battito="4"/>
+    </TRACK>
+    <TRACK TrackID="208964794" Name="C.a.m." Artist="Volen Sentir" Composer=""
+           Album="Cloud Atlas Map" Grouping="" Genre="Melodic House &amp; Techno"
+           Kind="Unknown Format" Size="0" TotalTime="483" DiscNumber="0"
+           TrackNumber="0" Year="2019" AverageBpm="123.00" DateAdded="2021-06-16"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="16" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/12738035/" Remixer=""
+           Tonality="5A" Label="All Day I Dream " Mix="Original Mix">
+      <TEMPO Inizio="0.023" Bpm="123.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="176634742" Name="Happy Accidents" Artist="Fulltone"
+           Composer="" Album="Love in Space EP" Grouping="" Genre="Organic House / Downtempo"
+           Kind="Unknown Format" Size="0" TotalTime="488" DiscNumber="0"
+           TrackNumber="0" Year="2021" AverageBpm="122.00" DateAdded="2021-06-16"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="5" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/15090316/" Remixer=""
+           Tonality="5A" Label="All Day I Dream " Mix="Original Mix">
+      <TEMPO Inizio="0.135" Bpm="122.00" Metro="4/4" Battito="2"/>
+    </TRACK>
+    <TRACK TrackID="144351600" Name="Falling Forward feat. Sub Teal" Artist="Gabriel &amp; Dresden, Sub Teal"
+           Composer="" Album="Falling Forward (Qrion Remix)" Grouping=""
+           Genre="Melodic House &amp; Techno" Kind="Unknown Format" Size="0"
+           TotalTime="309" DiscNumber="0" TrackNumber="0" Year="2020" AverageBpm="122.00"
+           DateAdded="2021-06-17" BitRate="0" SampleRate="44100" Comments=""
+           PlayCount="7" Rating="0" Location="file://localhost/v4/catalog/tracks/13651526/"
+           Remixer="Qrion" Tonality="9A" Label="Anjunabeats" Mix="Qrion Extended Mix">
+      <TEMPO Inizio="0.022" Bpm="122.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="82313526" Name="Room 1.5" Artist="Joseph Ray" Composer=""
+           Album="Room 1.5 / Chem-EX" Grouping="" Genre="Melodic House &amp; Techno"
+           Kind="Unknown Format" Size="0" TotalTime="503" DiscNumber="0"
+           TrackNumber="0" Year="2019" AverageBpm="124.00" DateAdded="2021-07-07"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="8" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/12410807/" Remixer=""
+           Tonality="3A" Label="Anjunadeep" Mix="Original Mix">
+      <TEMPO Inizio="0.206" Bpm="124.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="128776037" Name="Distraido" Artist="Rafa Barrios" Composer=""
+           Album="10 YEARS OF AGILE RECORDINGS" Grouping="" Genre="Tech House"
+           Kind="Unknown Format" Size="0" TotalTime="407" DiscNumber="0"
+           TrackNumber="0" Year="2019" AverageBpm="126.00" DateAdded="2021-07-09"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="2" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/11490994/" Remixer=""
+           Tonality="3B" Label="Agile Recordings" Mix="Original Mix">
+      <TEMPO Inizio="0.025" Bpm="126.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="0.978" Bpm="126.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="258.596" Bpm="126.00" Metro="4/4" Battito="4"/>
+    </TRACK>
+    <TRACK TrackID="153424495" Name="Santorini" Artist="Spencer Brown, Fingerprint"
+           Composer="" Album="Trance 100 - Summer 2021 - Extended Versions"
+           Grouping="" Genre="Organic House / Downtempo" Kind="Unknown Format"
+           Size="0" TotalTime="426" DiscNumber="0" TrackNumber="0" Year="2021"
+           AverageBpm="122.00" DateAdded="2021-07-09" BitRate="128" SampleRate="44100"
+           Comments="" PlayCount="4" Rating="0" Location="file://localhost/v4/catalog/tracks/15395391/"
+           Remixer="" Tonality="7A" Label="Armada Music Albums" Mix="Extended Mix">
+      <TEMPO Inizio="0.113" Bpm="122.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="193300736" Name="Babydoll White" Artist="Fingerprint"
+           Composer="" Album="Anjunadeep Explorations 14" Grouping="" Genre="Organic House / Downtempo"
+           Kind="Unknown Format" Size="0" TotalTime="480" DiscNumber="0"
+           TrackNumber="0" Year="2020" AverageBpm="122.00" DateAdded="2021-07-09"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="4" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/14126659/" Remixer="Mem Aleph"
+           Tonality="9A" Label="Anjunadeep" Mix="Mem Aleph Extended Mix">
+      <TEMPO Inizio="0.001" Bpm="122.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="55161815" Name="Beyond Beliefs" Artist="Ben Bohmer"
+           Composer="" Album="Beyond Beliefs" Grouping="" Genre="Melodic House &amp; Techno"
+           Kind="Unknown Format" Size="0" TotalTime="437" DiscNumber="0"
+           TrackNumber="0" Year="2021" AverageBpm="124.00" DateAdded="2021-07-11"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="4" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/15421401/" Remixer=""
+           Tonality="11A" Label="Anjunadeep" Mix="Original Mix">
+      <TEMPO Inizio="0.223" Bpm="124.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="179596824" Name="Bhagwan" Artist="Juan Deminicis" Composer=""
+           Album="Best of 2020" Grouping="" Genre="Organic House / Downtempo"
+           Kind="Unknown Format" Size="0" TotalTime="424" DiscNumber="0"
+           TrackNumber="0" Year="2021" AverageBpm="122.00" DateAdded="2021-07-13"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="4" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/14733076/" Remixer=""
+           Tonality="8B" Label="Flug Lab" Mix="Original Mix">
+      <TEMPO Inizio="0.048" Bpm="122.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="190528736" Name="Ob1 Kenobi" Artist="Oden &amp; Fatzo"
+           Composer="" Album="Intease 0102" Grouping="" Genre="House" Kind="Unknown Format"
+           Size="0" TotalTime="345" DiscNumber="0" TrackNumber="0" Year="2020"
+           AverageBpm="128.00" DateAdded="2021-07-17" BitRate="0" SampleRate="44100"
+           Comments="" PlayCount="1" Rating="0" Location="file://localhost/v4/catalog/tracks/13006947/"
+           Remixer="" Tonality="10A" Label="Increase the Groove Records"
+           Mix="Original Mix">
+      <TEMPO Inizio="0.074" Bpm="128.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="180526001" Name="Cats Love Jazz" Artist="Oden &amp; Fatzo"
+           Composer="" Album="Cats Love Jazz EP" Grouping="" Genre="Minimal / Deep Tech"
+           Kind="Unknown Format" Size="0" TotalTime="330" DiscNumber="0"
+           TrackNumber="0" Year="2020" AverageBpm="129.00" DateAdded="2021-07-17"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="2" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/14283768/" Remixer=""
+           Tonality="5A" Label="Moscow Records" Mix="Original Mix">
+      <TEMPO Inizio="0.107" Bpm="129.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="111095485" Name="Smooth Move" Artist="Mariche" Composer=""
+           Album="Evening" Grouping="" Genre="Minimal / Deep Tech" Kind="Unknown Format"
+           Size="0" TotalTime="392" DiscNumber="0" TrackNumber="0" Year="2021"
+           AverageBpm="129.00" DateAdded="2021-07-17" BitRate="0" SampleRate="44100"
+           Comments="" PlayCount="5" Rating="0" Location="file://localhost/v4/catalog/tracks/14633751/"
+           Remixer="" Tonality="10A" Label="Whoyostro White" Mix="Original Mix">
+      <TEMPO Inizio="0.033" Bpm="129.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="352.125" Bpm="129.00" Metro="4/4" Battito="2"/>
+    </TRACK>
+    <TRACK TrackID="266120452" Name="Acid Shuffle" Artist="St David" Composer=""
+           Album="Mind Power EP" Grouping="" Genre="Deep House" Kind="Unknown Format"
+           Size="0" TotalTime="383" DiscNumber="0" TrackNumber="0" Year="2020"
+           AverageBpm="126.00" DateAdded="2021-07-17" BitRate="0" SampleRate="44100"
+           Comments="" PlayCount="1" Rating="0" Location="file://localhost/v4/catalog/tracks/14127579/"
+           Remixer="" Tonality="11A" Label="Politics Of Dancing Digital"
+           Mix="Original Mix">
+      <TEMPO Inizio="0.072" Bpm="126.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="0.549" Bpm="126.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="316.740" Bpm="126.00" Metro="4/4" Battito="2"/>
+      <POSITION_MARK Name="" Type="0" Start="7.691" Num="3" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="7.691" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="7.691" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="7.691" Num="0" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="90773971" Name="Acid Shuffle" Artist="St David" Composer=""
+           Album="Mind Power EP" Grouping="" Genre="Deep House" Kind="Unknown Format"
+           Size="0" TotalTime="389" DiscNumber="0" TrackNumber="0" Year="2020"
+           AverageBpm="126.00" DateAdded="2021-07-17" BitRate="0" SampleRate="44100"
+           Comments="" PlayCount="7" Rating="0" Location="file://localhost/v4/catalog/tracks/14127580/"
+           Remixer="Diego Krause" Tonality="12B" Label="Politics Of Dancing Digital"
+           Mix="Diego Krause Remix">
+      <TEMPO Inizio="0.047" Bpm="126.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="0.524" Bpm="126.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="226.715" Bpm="126.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="4" Start="0.000" End="321.907" Num="3" Red="255"
+                     Green="140" Blue="0"/>
+      <POSITION_MARK Name="" Type="4" Start="0.000" End="321.907" Num="2" Red="255"
+                     Green="140" Blue="0"/>
+      <POSITION_MARK Name="" Type="4" Start="0.000" End="321.907" Num="0" Red="255"
+                     Green="140" Blue="0"/>
+      <POSITION_MARK Name="" Type="4" Start="0.000" End="321.907" Num="1" Red="255"
+                     Green="140" Blue="0"/>
+    </TRACK>
+    <TRACK TrackID="99184934" Name="Diving" Artist="Ki.Mi." Composer=""
+           Album="Diving" Grouping="" Genre="Deep House" Kind="Unknown Format"
+           Size="0" TotalTime="445" DiscNumber="0" TrackNumber="0" Year="2016"
+           AverageBpm="121.00" DateAdded="2021-07-17" BitRate="0" SampleRate="44100"
+           Comments="" PlayCount="8" Rating="0" Location="file://localhost/v4/catalog/tracks/7818614/"
+           Remixer="" Tonality="3A" Label="Cyclic Records" Mix="Original Mix">
+      <TEMPO Inizio="0.025" Bpm="121.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="189853118" Name="Tidal" Artist="swoof" Composer="" Album="The Moss EP"
+           Grouping="" Genre="Organic House / Downtempo" Kind="Unknown Format"
+           Size="0" TotalTime="592" DiscNumber="0" TrackNumber="0" Year="2021"
+           AverageBpm="120.00" DateAdded="2021-07-19" BitRate="0" SampleRate="44100"
+           Comments="" PlayCount="4" Rating="0" Location="file://localhost/v4/catalog/tracks/15090309/"
+           Remixer="Tim Green" Tonality="10B" Label="All Day I Dream " Mix="Tim Green Remix">
+      <TEMPO Inizio="0.080" Bpm="120.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="29625366" Name="Mobara" Artist="Tim Green" Composer=""
+           Album="Walking the World EP" Grouping="" Genre="Organic House / Downtempo"
+           Kind="Unknown Format" Size="0" TotalTime="518" DiscNumber="0"
+           TrackNumber="0" Year="2020" AverageBpm="120.00" DateAdded="2021-08-06"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="4" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/13948301/" Remixer=""
+           Tonality="6A" Label="TRYBESof" Mix="Original Mix">
+      <TEMPO Inizio="0.056" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="62.055" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="62.556" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="63.055" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="63.556" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="64.055" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="64.556" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="65.055" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="65.556" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="66.055" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="66.556" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="67.055" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="67.556" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="68.055" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="68.556" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="69.055" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="69.556" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="70.055" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="70.556" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="71.055" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="71.556" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="72.055" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="72.556" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="73.055" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="73.556" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="74.055" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="74.556" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="75.055" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="75.556" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="76.055" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="76.556" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="77.055" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="77.556" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="78.055" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="78.556" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="79.055" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="79.556" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="80.055" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="80.556" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="81.055" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="81.556" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="82.055" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="511.054" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="511.555" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="512.054" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="512.555" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="513.054" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="513.555" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="514.054" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="514.555" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="515.054" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="515.555" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="516.054" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="516.555" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="517.054" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="517.555" Bpm="120.00" Metro="4/4" Battito="4"/>
+    </TRACK>
+    <TRACK TrackID="229796874" Name="Solarized" Artist="Above &amp; Beyond"
+           Composer="" Album="Flow State" Grouping="" Genre="Electronica"
+           Kind="Unknown Format" Size="0" TotalTime="280" DiscNumber="0"
+           TrackNumber="0" Year="2019" AverageBpm="127.53" DateAdded="2021-08-07"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="1" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/12262324/" Remixer=""
+           Tonality="8B" Label="Anjunabeats" Mix="Edit">
+      <TEMPO Inizio="0.241" Bpm="127.53" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="21.413" Bpm="127.53" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="74.107" Bpm="127.53" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="147.502" Bpm="127.53" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="200.196" Bpm="127.53" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="273.591" Bpm="127.53" Metro="4/4" Battito="2"/>
+      <POSITION_MARK Name="" Type="0" Start="134.799" Num="0" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="163.498" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="82245256" Name="7B - 123 - Bjork - Tabula Rasa (Antrim &amp; Artfaq Remix) Master.-"
+           Artist="" Composer="" Album="" Grouping="" Genre="" Kind="WAV File"
+           Size="87941552" TotalTime="498" DiscNumber="0" TrackNumber="0"
+           Year="0" AverageBpm="123.00" DateAdded="2021-08-12" BitRate="1411"
+           SampleRate="44100" Comments="" PlayCount="7" Rating="0" Location="file://localhost/Users/felipe/Downloads/7B%20-%20123%20-%20Bjork%20-%20Tabula%20Rasa%20(Antrim%20%26%20Artfaq%20Remix)%20Master.-.wav"
+           Remixer="" Tonality="6A" Label="" Mix="">
+      <TEMPO Inizio="0.002" Bpm="123.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="169294018" Name="Running Away feat. Janai" Artist="Boom Jinx, Soundprank, Janai"
+           Composer="" Album="No Answers In Luck" Grouping="" Genre="Electronica"
+           Kind="Unknown Format" Size="0" TotalTime="230" DiscNumber="0"
+           TrackNumber="0" Year="2015" AverageBpm="114.00" DateAdded="2021-08-21"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="1" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/7058754/" Remixer=""
+           Tonality="4B" Label="Anjunabeats" Mix="Original Mix">
+      <TEMPO Inizio="0.074" Bpm="114.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="5.864" Bpm="114.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="121.654" Bpm="114.00" Metro="4/4" Battito="4"/>
+    </TRACK>
+    <TRACK TrackID="221077673" Name="Viewpoint" Artist="Jesper Ryom" Composer=""
+           Album="Syvsover" Grouping="" Genre="Deep House" Kind="Unknown Format"
+           Size="0" TotalTime="436" DiscNumber="0" TrackNumber="0" Year="2013"
+           AverageBpm="120.00" DateAdded="2021-08-21" BitRate="0" SampleRate="44100"
+           Comments="" PlayCount="0" Rating="0" Location="file://localhost/v4/catalog/tracks/4407413/"
+           Remixer="" Tonality="11B" Label="Freude Am Tanzen Recordings"
+           Mix="Original Mix">
+      <TEMPO Inizio="0.125" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="76.626" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="77.125" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="77.626" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="78.125" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="78.626" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="79.125" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="79.626" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="80.125" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="80.626" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="81.125" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="81.626" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="82.125" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="82.626" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="83.125" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="83.626" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="84.125" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="84.626" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="85.125" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="85.626" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="86.125" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="86.626" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="87.125" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="87.626" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="88.125" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="88.626" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="89.125" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="89.626" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="90.125" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="90.626" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="91.125" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="91.626" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="92.125" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="92.626" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="93.125" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="93.626" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="94.125" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="94.626" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="95.125" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="95.626" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="96.125" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="96.626" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="97.125" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="97.626" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="98.125" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="98.626" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="99.125" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="99.626" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="100.125" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="100.626" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="101.125" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="101.626" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="102.125" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="102.626" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="103.125" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="103.626" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="104.125" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="104.626" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="105.125" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="105.626" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="106.125" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="106.626" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="107.125" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="107.626" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="108.125" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="108.626" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="109.125" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="109.626" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="110.125" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="110.626" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="111.125" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="111.626" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="112.125" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="112.626" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="113.125" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="113.626" Bpm="120.00" Metro="4/4" Battito="4"/>
+    </TRACK>
+    <TRACK TrackID="208457624" Name="Zeca Veloso - Todo Homem (Nacho Varela &amp; Cruz Vittor Tribute Mix)"
+           Artist="Nacho Varela &amp; Cruz Vittor" Composer="" Album=""
+           Grouping="" Genre="" Kind="MP3 File" Size="15658823" TotalTime="452"
+           DiscNumber="0" TrackNumber="0" Year="2021" AverageBpm="122.00"
+           DateAdded="2021-08-21" BitRate="0" SampleRate="44100" Comments="Visit https://nachovarelacruzvittor.bandcamp.com"
+           PlayCount="7" Rating="0" Location="file://localhost/Users/felipe/Downloads/Nacho%20Varela%20%26%20Cruz%20Vittor%20-%20Zeca%20Veloso%20-%20Todo%20Homem%20(Nacho%20Varela%20%26%20Cruz%20Vittor%20Tribute%20Mix).mp3"
+           Remixer="" Tonality="3A" Label="" Mix="">
+      <TEMPO Inizio="0.058" Bpm="122.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="224849384" Name="Aquatic" Artist="NASIMUS" Composer=""
+           Album="Surrealism" Grouping="" Genre="Minimal / Deep Tech" Kind="Unknown Format"
+           Size="0" TotalTime="401" DiscNumber="0" TrackNumber="0" Year="2018"
+           AverageBpm="122.00" DateAdded="2021-08-29" BitRate="0" SampleRate="44100"
+           Comments="" PlayCount="0" Rating="0" Location="file://localhost/v4/catalog/tracks/10294686/"
+           Remixer="" Tonality="9B" Label="Caucasus Underground" Mix="Original mix">
+      <TEMPO Inizio="0.027" Bpm="122.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="169240590" Name="Aquatic" Artist="Nora En Pure" Composer=""
+           Album="Aquatic" Grouping="" Genre="Melodic House &amp; Techno"
+           Kind="Unknown Format" Size="0" TotalTime="434" DiscNumber="0"
+           TrackNumber="0" Year="2021" AverageBpm="122.00" DateAdded="2021-08-29"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="7" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/15281869/" Remixer=""
+           Tonality="5A" Label="Enormous Tunes" Mix="Extended Mix">
+      <TEMPO Inizio="0.024" Bpm="122.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="293.138" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="143.630" Num="0" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="80.680" Num="2" Red="40" Green="226"
+                     Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="1213546" Name="Waves" Artist="Nora En Pure" Composer=""
+           Album="Enormous Tunes - Ibiza Nights 2017" Grouping="" Genre="Funky House"
+           Kind="Unknown Format" Size="0" TotalTime="419" DiscNumber="0"
+           TrackNumber="0" Year="2017" AverageBpm="123.00" DateAdded="2021-08-29"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="5" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/9278173/" Remixer=""
+           Tonality="1A" Label="Enormous Tunes" Mix="Original Club Mix">
+      <TEMPO Inizio="0.144" Bpm="123.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="156697380" Name="Supermodel (You Better Work)" Artist="RuPaul"
+           Composer="" Album="Supermodel (You Better Work)/House of Love"
+           Grouping="" Genre="Dance / Electro Pop" Kind="Unknown Format"
+           Size="0" TotalTime="226" DiscNumber="0" TrackNumber="0" Year="1992"
+           AverageBpm="126.23" DateAdded="2021-08-29" BitRate="0" SampleRate="44100"
+           Comments="" PlayCount="3" Rating="0" Location="file://localhost/v4/catalog/tracks/13392842/"
+           Remixer="" Tonality="10A" Label="Tommy Boy Music, LLC" Mix="Ready to Wear Mix">
+      <TEMPO Inizio="0.013" Bpm="126.23" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="0.489" Bpm="126.23" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="69.885" Bpm="126.23" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="155.442" Bpm="126.23" Metro="4/4" Battito="4"/>
+      <POSITION_MARK Name="" Type="0" Start="11.421" Num="0" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="121.694" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="177672418" Name="So Glad" Artist="Floorplan" Composer=""
+           Album="So Glad / I Feel Him Moving" Grouping="" Genre="House"
+           Kind="Unknown Format" Size="0" TotalTime="432" DiscNumber="0"
+           TrackNumber="0" Year="2019" AverageBpm="126.00" DateAdded="2021-08-29"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="2" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/11830853/" Remixer=""
+           Tonality="9A" Label="M-Plant" Mix="Original Mix">
+      <TEMPO Inizio="0.264" Bpm="126.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="28.836" Bpm="126.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="65.027" Bpm="126.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="91.218" Bpm="126.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="119.790" Bpm="126.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="155.981" Bpm="126.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="182.172" Bpm="126.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="208.363" Bpm="126.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="234.554" Bpm="126.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="270.745" Bpm="126.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="296.936" Bpm="126.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="323.127" Bpm="126.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="349.318" Bpm="126.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="385.509" Bpm="126.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="411.700" Bpm="126.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="146549567" Name="Rainy April" Artist="Spencer Brown, Qrion"
+           Composer="" Album="Rainy April" Grouping="" Genre="Melodic House &amp; Techno"
+           Kind="Unknown Format" Size="0" TotalTime="453" DiscNumber="0"
+           TrackNumber="0" Year="2021" AverageBpm="125.00" DateAdded="2021-09-05"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="1" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/15589100/" Remixer=""
+           Tonality="11A" Label="Anjunadeep" Mix="Original Mix">
+      <TEMPO Inizio="0.117" Bpm="125.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="79.316" Bpm="125.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="394.195" Bpm="125.00" Metro="4/4" Battito="2"/>
+    </TRACK>
+    <TRACK TrackID="138061867" Name="Electric" Artist="Breaking Beattz"
+           Composer="" Album="Electric (Extended Mix)" Grouping="" Genre="Bass House"
+           Kind="Unknown Format" Size="0" TotalTime="320" DiscNumber="0"
+           TrackNumber="0" Year="2020" AverageBpm="126.00" DateAdded="2021-09-05"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="4" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/14308668/" Remixer=""
+           Tonality="1A" Label="Musical Freedom" Mix="Extended Mix">
+      <TEMPO Inizio="0.024" Bpm="126.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="176.215" Bpm="126.00" Metro="4/4" Battito="3"/>
+    </TRACK>
+    <TRACK TrackID="175765564" Name="Innocence" Artist="Marsh" Composer=""
+           Album="Heaven EP" Grouping="" Genre="Melodic House &amp; Techno"
+           Kind="Unknown Format" Size="0" TotalTime="434" DiscNumber="0"
+           TrackNumber="0" Year="2021" AverageBpm="124.00" DateAdded="2021-09-07"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="5" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/15393832/" Remixer=""
+           Tonality="5A" Label="Anjunadeep" Mix="Extended Mix">
+      <TEMPO Inizio="0.122" Bpm="124.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="434.631" Num="4" Red="40" Green="226"
+                     Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="183395716" Name="Heaven" Artist="Marsh" Composer=""
+           Album="Heaven EP" Grouping="" Genre="Melodic House &amp; Techno"
+           Kind="Unknown Format" Size="0" TotalTime="312" DiscNumber="0"
+           TrackNumber="0" Year="2021" AverageBpm="125.00" DateAdded="2021-09-07"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="6" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/15393830/" Remixer=""
+           Tonality="6A" Label="Anjunadeep" Mix="Extended Mix">
+      <TEMPO Inizio="0.098" Bpm="125.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="22.657" Bpm="125.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="93.216" Bpm="125.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="164.255" Bpm="125.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="234.814" Bpm="125.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="305.373" Bpm="125.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="79668192" Name="Facettes" Artist="DJOKO" Composer=""
+           Album="Hooked" Grouping="" Genre="Deep House" Kind="Unknown Format"
+           Size="0" TotalTime="328" DiscNumber="0" TrackNumber="0" Year="2020"
+           AverageBpm="125.00" DateAdded="2021-09-08" BitRate="0" SampleRate="44100"
+           Comments="" PlayCount="6" Rating="0" Location="file://localhost/v4/catalog/tracks/13486601/"
+           Remixer="" Tonality="1A" Label="Shall Not Fade" Mix="Original Mix">
+      <TEMPO Inizio="0.023" Bpm="125.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="181861898" Name="Force" Artist="Djapo" Composer="" Album="Force EP"
+           Grouping="" Genre="Techno (Peak Time / Driving)" Kind="Unknown Format"
+           Size="0" TotalTime="436" DiscNumber="0" TrackNumber="0" Year="2020"
+           AverageBpm="125.00" DateAdded="2021-09-08" BitRate="0" SampleRate="44100"
+           Comments="" PlayCount="3" Rating="0" Location="file://localhost/v4/catalog/tracks/13407254/"
+           Remixer="" Tonality="8A" Label="minimalism Records" Mix="Original Mix">
+      <TEMPO Inizio="0.023" Bpm="125.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="132.504" Bpm="125.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="270.745" Bpm="125.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="409.466" Bpm="125.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="102857750" Name="Let You Go" Artist="DJOKO" Composer=""
+           Album="Hen &amp; Goose 002" Grouping="" Genre="House" Kind="Unknown Format"
+           Size="0" TotalTime="412" DiscNumber="0" TrackNumber="0" Year="2020"
+           AverageBpm="122.00" DateAdded="2021-09-10" BitRate="0" SampleRate="44100"
+           Comments="" PlayCount="5" Rating="0" Location="file://localhost/v4/catalog/tracks/13382578/"
+           Remixer="" Tonality="4A" Label="recordJet" Mix="Original Mix">
+      <TEMPO Inizio="0.224" Bpm="122.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="191750591" Name="Flying By Candlelight feat. Marty Longstaff"
+           Artist="Above &amp; Beyond, Marty Longstaff" Composer="" Album="Common Ground Companion EP"
+           Grouping="" Genre="Trance" Kind="Unknown Format" Size="0" TotalTime="348"
+           DiscNumber="0" TrackNumber="0" Year="2019" AverageBpm="125.00"
+           DateAdded="2021-09-12" BitRate="0" SampleRate="44100" Comments=""
+           PlayCount="3" Rating="0" Location="file://localhost/v4/catalog/tracks/11782863/"
+           Remixer="" Tonality="2A" Label="Anjunabeats" Mix="Original Mix">
+      <TEMPO Inizio="0.023" Bpm="125.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="79.702" Bpm="125.00" Metro="4/4" Battito="2"/>
+      <POSITION_MARK Name="" Type="0" Start="215.062" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="46.103" Num="0" Red="40" Green="226"
+                     Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="201603623" Name="Hi" Artist="Kasper Koman" Composer=""
+           Album="Hi / First Move / Loco Motif" Grouping="" Genre="Progressive House"
+           Kind="Unknown Format" Size="0" TotalTime="483" DiscNumber="0"
+           TrackNumber="0" Year="2018" AverageBpm="120.00" DateAdded="2021-09-15"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="1" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/11286739/" Remixer=""
+           Tonality="6A" Label="Lost &amp; Found" Mix="Original Mix">
+      <TEMPO Inizio="0.223" Bpm="120.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="11858573" Name="Tunnel Vision feat. Kauf" Artist="Kauf, Jerro"
+           Composer="" Album="Tunnel Vision" Grouping="" Genre="Melodic House &amp; Techno"
+           Kind="Unknown Format" Size="0" TotalTime="281" DiscNumber="0"
+           TrackNumber="0" Year="2020" AverageBpm="119.00" DateAdded="2021-09-16"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/13393281/" Remixer=""
+           Tonality="1A" Label="Anjunadeep" Mix="Original Mix">
+      <TEMPO Inizio="0.329" Bpm="119.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="29.069" Bpm="119.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="105.204" Bpm="119.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="171.255" Bpm="119.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="237.306" Bpm="119.00" Metro="4/4" Battito="3"/>
+    </TRACK>
+    <TRACK TrackID="183927407" Name="Office Gossip" Artist="Prunk" Composer=""
+           Album="Through The Walls" Grouping="" Genre="Deep House" Kind="Unknown Format"
+           Size="0" TotalTime="367" DiscNumber="0" TrackNumber="0" Year="2020"
+           AverageBpm="126.00" DateAdded="2021-09-20" BitRate="0" SampleRate="44100"
+           Comments="" PlayCount="3" Rating="0" Location="file://localhost/v4/catalog/tracks/13424317/"
+           Remixer="" Tonality="7A" Label="PIV" Mix="Original Mix">
+      <TEMPO Inizio="0.040" Bpm="126.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="0.993" Bpm="126.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="187.184" Bpm="126.00" Metro="4/4" Battito="2"/>
+    </TRACK>
+    <TRACK TrackID="177148251" Name="Among Wolves" Artist="Tim Green" Composer=""
+           Album="Among Wolves (Volen Sentir Remix)" Grouping="" Genre="Organic House / Downtempo"
+           Kind="Unknown Format" Size="0" TotalTime="413" DiscNumber="0"
+           TrackNumber="0" Year="2021" AverageBpm="123.00" DateAdded="2021-09-29"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="4" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/15601510/" Remixer="Volen Sentir"
+           Tonality="8A" Label="For A Memory" Mix="Volen Sentir Remix">
+      <TEMPO Inizio="0.046" Bpm="123.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="206567508" Name="Vdol Po Rechenke" Artist="Volen Sentir"
+           Composer="" Album="Part 3 - Vdol Po Rechenke" Grouping="" Genre="Organic House / Downtempo"
+           Kind="Unknown Format" Size="0" TotalTime="440" DiscNumber="0"
+           TrackNumber="0" Year="2017" AverageBpm="122.00" DateAdded="2021-10-01"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="2" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/9764716/" Remixer=""
+           Tonality="4A" Label="Shanti Radio Moscow" Mix="Original Mix">
+      <TEMPO Inizio="0.023" Bpm="122.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="133299823" Name="Erase feat. lau.ra" Artist="Ben Böhmer, lau.ra"
+           Composer="" Album="Erase" Grouping="" Genre="Melodic House &amp; Techno"
+           Kind="Unknown Format" Size="0" TotalTime="394" DiscNumber="0"
+           TrackNumber="0" Year="2021" AverageBpm="124.00" DateAdded="2021-10-08"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="1" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/15587122/" Remixer=""
+           Tonality="1A" Label="Anjunadeep" Mix="Original Mix">
+      <TEMPO Inizio="0.216" Bpm="124.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="207362975" Name="There Is Peace Beyond feat. Mimi Page"
+           Artist="Mimi Page, Nox Vahn" Composer="" Album="There Is Peace Beyond"
+           Grouping="" Genre="Melodic House &amp; Techno" Kind="Unknown Format"
+           Size="0" TotalTime="410" DiscNumber="0" TrackNumber="0" Year="2019"
+           AverageBpm="117.00" DateAdded="2021-10-08" BitRate="0" SampleRate="44100"
+           Comments="" PlayCount="2" Rating="0" Location="file://localhost/v4/catalog/tracks/12255850/"
+           Remixer="" Tonality="7A" Label="Anjunadeep" Mix="Extended Mix">
+      <TEMPO Inizio="0.082" Bpm="117.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="254385704" Name="They Shifted Left" Artist="M-High"
+           Composer="" Album="Politics Of Dancing Records 8th Anniversary Digital Compilation Part 2"
+           Grouping="" Genre="Tech House" Kind="Unknown Format" Size="0"
+           TotalTime="444" DiscNumber="0" TrackNumber="0" Year="2021" AverageBpm="126.00"
+           DateAdded="2021-10-08" BitRate="0" SampleRate="44100" Comments=""
+           PlayCount="1" Rating="0" Location="file://localhost/v4/catalog/tracks/15795283/"
+           Remixer="" Tonality="9A" Label="Politics Of Dancing Digital"
+           Mix="Original Mix">
+      <TEMPO Inizio="0.074" Bpm="126.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="84566516" Name="Satellite Girl" Artist="Lee Burridge"
+           Composer="" Album="Leee EP" Grouping="" Genre="Organic House / Downtempo"
+           Kind="Unknown Format" Size="0" TotalTime="561" DiscNumber="0"
+           TrackNumber="0" Year="2021" AverageBpm="120.00" DateAdded="2021-10-13"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="2" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/14786613/" Remixer="Tim Green"
+           Tonality="2A" Label="All Day I Dream " Mix="Tim Green Remix">
+      <TEMPO Inizio="0.186" Bpm="120.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="247863441" Name="Treasure feat. Zoë Johnston" Artist="Above &amp; Beyond, Zoe Johnston"
+           Composer="" Album="We Are All We Need" Grouping="" Genre="Trance"
+           Kind="Unknown Format" Size="0" TotalTime="226" DiscNumber="0"
+           TrackNumber="0" Year="2015" AverageBpm="128.02" DateAdded="2021-10-13"
+           BitRate="0" SampleRate="44100" Comments="" PlayCount="1" Rating="0"
+           Location="file://localhost/v4/catalog/tracks/6200321/" Remixer=""
+           Tonality="7B" Label="Anjunabeats" Mix="Original Mix">
+      <TEMPO Inizio="0.208" Bpm="128.02" Metro="4/4" Battito="1"/>
+    </TRACK>
+  </COLLECTION>
+  <PLAYLISTS>
+    <NODE Type="0" Name="ROOT" Count="2">
+      <NODE Name="mp3" Type="1" KeyType="0" Entries="2">
+        <TRACK Key="208457624"/>
+        <TRACK Key="82245256"/>
+      </NODE>
+      <NODE Name="relax deep set" Type="1" KeyType="0" Entries="0"/>
+    </NODE>
+  </PLAYLISTS>
+</DJ_PLAYLISTS>
